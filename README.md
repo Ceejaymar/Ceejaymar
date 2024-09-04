@@ -3,9 +3,9 @@
 
 - 😄 Pronouns he/him/his
 
-- 🔭 I’m currently working on **personal projects to grow my skills**
+- 🔭 Software engineer by day, working on personal projects by night
 
-- 🌱 I’m currently learning **Typescript** & **UX Design**
+- 🌱 I’m currently learning **Three.js** 
 
 - 👨‍💻 All of my projects are available at [https://carlosmartinez.dev](https://carlosmartinez.dev)
 
