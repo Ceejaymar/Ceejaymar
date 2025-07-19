@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three.js** 
 
-- 👨‍💻 All of my projects are available at [https://los.codes](https://los.codes)
+- 👨‍💻 Check out my portfolio website at [https://los.codes](https://los.codes)
 
 - 💬 Ask me about **my favorite travel locations**
 
